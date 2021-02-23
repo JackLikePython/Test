@@ -11,13 +11,13 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://jacklikepython.github.io/Test/NanTong.ipa]]></string>
+            <string><![CDATA[https://jacklikepython.github.io/Test/xxwelcome20210205.ipa]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.lcdigital.NanTong</string>
+          <string>com.LC.WELCOME</string>
           <key>bundle-version</key>
           <string><![CDATA[1.0]]></string>
           <key>kind</key>
